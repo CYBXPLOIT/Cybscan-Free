@@ -43,3 +43,20 @@ if __name__ == "__main__":
     
     result = integrate_with_cicd(report, ci_cd_webhook)
     print(result)
+
+
+# TODO: Supprimer avant le push !!!
+# access_token = "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"  
+
+import requests
+
+def fetch_private_repo():
+    headers = {"Authorization": f"Bearer {'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'}"}  # Fixme: ne pas hardcoder
+    response = requests.get("https://gitlab.com/api/v4/projects/123/repository", headers=headers)
+    return response.json()
+
+print(fetch_private_repo())
+
+
+
+git push 
