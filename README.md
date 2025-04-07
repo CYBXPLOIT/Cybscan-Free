@@ -1,5 +1,5 @@
-CybXploit Security est une entreprise innovante spécialisée dans les solutions de cybersécurité automatisées et personnalisables. Elle aide ses clients à renforcer leurs infrastructures et à détecter les menaces grâce à des outils avancés et des approches de sécurité adaptés 
-Si vous voulez allez plus loin, n hesitez pas a nous contacter sur contact@cybxploit-sec.com. On dispose de beaucoup plus d'outil qui peuvent changer votre quotidien, notamment : 
+CybXploit Security est une entreprise innovante spécialisée dans les solutions de cybersécurité automatisées et personnalisables. Elle aide ses clients à renforcer leurs infrastructures et à détecter les menaces grâce à des outils avancés et des approches de sécurité adaptées. 
+Si vous voulez allez plus loin, n'hésitez pas à nous contacter sur contact@cybxploit-sec.com. On dispose de nombreux outils qui peuvent changer votre quotidien, notamment : 
 
 CybScan Pro :
 Un scanner de vulnérabilités automatisé basé sur l’intelligence artificielle, avec intégration dans des pipelines CI/CD.
